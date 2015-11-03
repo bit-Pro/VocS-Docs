@@ -361,8 +361,8 @@ Full-Width Styles
   border-bottom: 1px solid #111;
 }
 
-#main_content .inner{
-  background: #fff;
+#main_content .inner {
+  background-color: #fff;
 }
 
 #main_content {
