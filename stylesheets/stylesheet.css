@@ -280,7 +280,7 @@ Full-Width Styles
   z-index: 10;
   padding: 10px 50px 10px 10px;
   color: #fff;
-  background: url('../images/blacktocat.png') #004898 no-repeat 95% 50%;
+  background: url('../images/blacktocat.png') #60C0F0 no-repeat 95% 50%;
   font-weight: 700;
   box-shadow: 0 0 10px rgba(0,0,0,.5);
   border-bottom-left-radius: 2px;
@@ -356,7 +356,7 @@ Full-Width Styles
 }
 
 #main_content_wrap {
-  background: #f2f2f2;
+  background: #004898;
   border-top: 1px solid #111;
   border-bottom: 1px solid #111;
 }
@@ -366,7 +366,7 @@ Full-Width Styles
 }
 
 #footer_wrap {
-  background: #212121;
+  background: #004898;
 }
 
 
