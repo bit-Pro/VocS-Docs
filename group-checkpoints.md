@@ -1,4 +1,4 @@
-# Group outputs summary
+# Group checkpoints summary
 *	Outputs/KPIs come in from outside clients and lecturer assigns them amongst the teams.
 *	Team coordinators coordinate the tasks within their teams.
 *	All team members have equal responsibility for quality completion of tasks.
