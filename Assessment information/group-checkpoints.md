@@ -25,3 +25,5 @@ The following are guidelines on how to hand in your team project work using GitH
 * Include a working files folder within your project folder
 * Always hand in all working files (e.g. psd or ai files)
 * Did I mention to keep everything really tidy?
+
+After handing in, keep an eye on your team repo's issues tracker. This is where you will find feedback on your work, and potentially things to fix. You will want to deal with any issues as quickly as possible so you don't let your clients down.
